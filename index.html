@@ -7,21 +7,24 @@
     <link rel="stylesheet" href="./index.css">
     <link rel="icon" type="image/png" href="./logo.png">
   
-    <title><span class="type-to">---</span> Translator</title>
+    <title>--- Translator</title>
   </head>
   <body>
     <div class="container">
       <div class="from-translate">
         <div class="label">Translate from <span class="type-from">---</span></div>
-        <input id="from"></input>
+        <textarea id="from"></textarea>
       </div>
       <button id="translate">Translate</button>
       <div class="to-translate">
         <div class="label">Translate from <span class="type-to">---</span></div>
-        <input id="to" disabled></input>
+        <textarea id="to" disabled></textarea>
       </div>
     </div>
     
     <script src="./index.js"></script>
+    
+    <script src="./modules/fya.js" type="module"></script>
+    <script src="./modules/eee.js" type="module"></script>
   </body>
 </html>
