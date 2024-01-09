@@ -1,5 +1,7 @@
 # SLPR Translator
 
-The Translator to my language Slozhnoproiznosijskij. 
+The Translator to:             *Link to Community of language*
+  Slozhnoproiznosijskij        *https://vk.com/assotiation_fya*
+  Dёn` Bёkvё ё                 *https://vk.com/vgoverments (Unofficial Community)*
 
-*Link to Community of language https://vk.com/assotiation_fya.*
+ 
